@@ -1,0 +1,43 @@
+# ===============================
+# OS / Editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+.vscode/
+.idea/
+
+# ===============================
+# Dependency folders (if any)
+# ===============================
+node_modules/
+vendor/
+
+# ===============================
+# Environment files (credentials)
+# ===============================
+.env
+.env.local
+
+# ===============================
+# Cache / session / upload folders
+# ===============================
+cache/
+tmp/
+sessions/
+uploads/
+
+# ===============================
+# Testing / PHP tools
+# ===============================
+.phpunit.result.cache
+
+# ===============================
+# Server-specific (optional)
+# ===============================
+.htaccess
+.htpasswd
+
